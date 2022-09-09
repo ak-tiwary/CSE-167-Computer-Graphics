@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/akshay/Dropbox/My Mac (Akshay’s MacBook Air)/Documents/Machine Learning/Programming Practice/CSE 167 Computer Graphics/build/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/GLUT.framework/Headers -std=c++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk   -Wno-deprecated-declarations -o CMakeFiles/Example.dir/example.cpp.o -c \"/Users/akshay/Dropbox/My Mac (Akshay’s MacBook Air)/Documents/Machine Learning/Programming Practice/CSE 167 Computer Graphics/src/example.cpp\"",
+  "file": "/Users/akshay/Dropbox/My Mac (Akshay’s MacBook Air)/Documents/Machine Learning/Programming Practice/CSE 167 Computer Graphics/src/example.cpp"
+}
+]
