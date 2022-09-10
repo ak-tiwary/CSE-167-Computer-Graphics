@@ -20,7 +20,7 @@ void my_init(void);
 void reshape(int w, int h);
 void idle(void);
 
-int main(int argc, char **argv)
+int main2(int argc, char **argv)
 {
     /*---- Initialize & Open Window ---*/
     glutInit(&argc, argv);
