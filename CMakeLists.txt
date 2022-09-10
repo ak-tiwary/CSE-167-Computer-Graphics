@@ -5,7 +5,7 @@ cmake_minimum_required(VERSION 3.1)
 # Set a project name.
 project(HelloOpenGL)
 
-# Use the C++11 standard.
+# Use the C++17 standard.
 set(CMAKE_CXX_FLAGS "-std=c++17")
 set(CMAKE_FIND_DEBUG_MODE 0)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
